@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="camp-exercise/src"/>
+	<classpathentry kind="src" path="demo/src"/>
+	<classpathentry kind="src" path="Inheritance/src"/>
+	<classpathentry kind="src" path="Inheritence-2/src"/>
+	<classpathentry kind="src" path="InheritenceDemo/src"/>
+	<classpathentry kind="src" path="interfaces/src"/>
+	<classpathentry kind="src" path="kodlama.io_demo/src"/>
+	<classpathentry kind="src" path="oopIntro/src"/>
+	<classpathentry kind="src" path="overridingDemo/src"/>
+	<classpathentry kind="src" path="polymorphismDemo/src"/>
+	<classpathentry kind="output" path="Inheritance/bin"/>
+</classpath>
